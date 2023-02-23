@@ -73,6 +73,9 @@
 <a href="https://twitter.com/Drakiz" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
+<a href="https://discord.gg/r7N6YfFwQa" target="_blank">
+<img alt="Discord" src="https://img.shields.io/discord/1015230301984796683?style=for-the-badge">
+  </a>
 </div>  
   
 
